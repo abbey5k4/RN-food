@@ -42,7 +42,7 @@ const SearchScreen = () => {
     });
   };
   useEffect(() => {
-    searchApi("pasta");
+    searchApi("meat");
   }, []);
 
   return (
